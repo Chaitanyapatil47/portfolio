@@ -32,8 +32,8 @@
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/Chaitanyapatil" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FCHAITANYA PATIL&subtitle=CHAITANYA PATIL&size=square" alt="Chaitanyapatil47">
+  <a href="https://github.com/Chaitanyapatil47" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FCHAITANYA PATIL&subtitle=CHAITANYA PATIL&size=square" alt="Chaitanyapatil4747">
   </a>
 </td>
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chaitanyapatil&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=Chaitanyapatil47&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -56,57 +56,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=Chaitanyapatil&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Chaitanyapatil47&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanyapatil&custom_title=Chaitanyapatil's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanyapatil47&custom_title=Chaitanyapatil47's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyapatil&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyapatil47&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitanyapatil&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitanyapatil47&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitanyapatil&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitanyapatil47&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanyapatil&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="CHAITANYA PATIL's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Chaitanyapatil47&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="CHAITANYA PATIL's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanyapatil&theme=highcontrast&hide_border=true" alt="CHAITANYA PATIL's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanyapatil47&theme=highcontrast&hide_border=true" alt="CHAITANYA PATIL's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Chaitanyapatil/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Chaitanyapatil47/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil47&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Chaitanyapatil/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Chaitanyapatil47/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil47&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Chaitanyapatil/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Chaitanyapatil47/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil47&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Chaitanyapatil/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Chaitanyapatil47/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaitanyapatil47&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -126,19 +126,19 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/Chaitanyapatil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Chaitanyapati47's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/Chaitanyapatil47?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Chaitanyapati47's GitHub Stats">
 
   <img src="https://github-readme-bento.vercel.app/stats/Chaitanyapati47?theme=dark" alt="Chaitanyapati47's GitHub Stats">
 </details>
 
 <br>
 
-### Chaitanyapatil/README.md activity
+### Chaitanyapatil47/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @Chaitanyapatil/Chaitanyapatil](https://reporoster.com/forks/dark/Chaitanyapatil/Chaitanyapatil)](https://github.com/Chaitanyapatil/Chaitanyapatil/network/members)-->
+<!-- [![Forkers repo roster for @Chaitanyapatil47/Chaitanyapatil47](https://reporoster.com/forks/dark/Chaitanyapatil47/Chaitanyapatil47)](https://github.com/Chaitanyapatil47/Chaitanyapatil47/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/Chaitanyapatil/Chaitanyapatil)](https://github.com/Chaitanyapatil/Chaitanyapatil)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/Chaitanyapatil47/Chaitanyapatil47)](https://github.com/Chaitanyapatil47/Chaitanyapatil47)-->
 
 <details>
   <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Chaitanyapati47&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Chaitanyapatil&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chaitanyapatil47&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Chaitanyapatilh2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/Chaitanyapatil47h2272?border=0&radius=20"/>
 </p>
 
 
@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:Chaitanyapatilh3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Chaitanyapatilh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:Chaitanyapatil47h3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Chaitanyapatil47h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -648,7 +648,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [Chaitanyapatil](https://github.com/Chaitanyapatil) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Chaitanyapatil47](https://github.com/Chaitanyapatil47) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
